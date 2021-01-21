@@ -1,6 +1,6 @@
 ### Hi there :dancer:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDoeuiGongju&show icons=true&hide=["issues"])
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDoeuiGongju&show_icons=true&hide=["issues"])
 <!--
 **DDoeuiGongju/DDoeuiGongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
