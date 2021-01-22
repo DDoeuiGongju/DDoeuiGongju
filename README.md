@@ -1,4 +1,4 @@
-### Hi there :dancer:
+### Hi there:hatching_chick:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDoeuiGongju&show_icons=true&hide=["issues"])[![](https://raw.githubusercontent.com/DDoeuiGongju/DDoeuiGongju/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
