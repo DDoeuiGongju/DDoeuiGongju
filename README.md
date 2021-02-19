@@ -1,6 +1,6 @@
 ### Hi there:hatching_chick:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDoeuiGongju&show_icons=true&hide=["issues"]&theme=onedark) [![](https://raw.githubusercontent.com/DDoeuiGongju/DDoeuiGongju/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DDoeuiGongju&show_icons=true&hide=["issues"]&theme=onedark) <!--[![](https://raw.githubusercontent.com/DDoeuiGongju/DDoeuiGongju/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
 
 <!--
 **DDoeuiGongju/DDoeuiGongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
